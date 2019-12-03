@@ -1,0 +1,768 @@
+﻿[
+    {
+        "countryCode": "AL",
+        "country": "Albania",
+        "langCode": "sq",
+        "language": "Albanian",
+        "dateFormat": "yyyy-MM-dd"
+    },
+    {
+        "countryCode": "AE",
+        "country": "United Arab Emirates",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "AR",
+        "country": "Argentina",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "AU",
+        "country": "Australia",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "AT",
+        "country": "Austria",
+        "langCode": "de",
+        "language": "German",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "BE",
+        "country": "Belgium",
+        "langCode": "fr",
+        "language": "French",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "BE",
+        "country": "Belgium",
+        "langCode": "nl",
+        "language": "Dutch",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "BG",
+        "country": "Bulgaria",
+        "langCode": "bg",
+        "language": "Bulgarian",
+        "dateFormat": "yyyy-M-d"
+    },
+    {
+        "countryCode": "BH",
+        "country": "Bahrain",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "BA",
+        "country": "Bosnia and Herzegovina",
+        "langCode": "sr",
+        "language": "Serbian",
+        "dateFormat": "yyyy-MM-dd"
+    },
+    {
+        "countryCode": "BY",
+        "country": "Belarus",
+        "langCode": "be",
+        "language": "Belarusian",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "BO",
+        "country": "Bolivia",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd-MM-yyyy"
+    },
+    {
+        "countryCode": "BR",
+        "country": "Brazil",
+        "langCode": "pt",
+        "language": "Portuguese",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "CA",
+        "country": "Canada",
+        "langCode": "fr",
+        "language": "French",
+        "dateFormat": "yyyy-MM-dd"
+    },
+    {
+        "countryCode": "CA",
+        "country": "Canada",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "CH",
+        "country": "Switzerland",
+        "langCode": "de",
+        "language": "German",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "CH",
+        "country": "Switzerland",
+        "langCode": "fr",
+        "language": "French",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "CH",
+        "country": "Switzerland",
+        "langCode": "it",
+        "language": "Italian",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "CL",
+        "country": "Chile",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd-MM-yyyy"
+    },
+    {
+        "countryCode": "CN",
+        "country": "China",
+        "langCode": "zh",
+        "language": "Chinese",
+        "dateFormat": "yyyy-M-d"
+    },
+    {
+        "countryCode": "CO",
+        "country": "Colombia",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "CR",
+        "country": "Costa Rica",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "CY",
+        "country": "Cyprus",
+        "langCode": "el",
+        "language": "Greek",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "CZ",
+        "country": "Czech Republic",
+        "langCode": "cs",
+        "language": "Czech",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "DE",
+        "country": "Germany",
+        "langCode": "de",
+        "language": "German",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "DK",
+        "country": "Denmark",
+        "langCode": "da",
+        "language": "Danish",
+        "dateFormat": "dd-MM-yyyy"
+    },
+    {
+        "countryCode": "DO",
+        "country": "Dominican Republic",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "MM/dd/yyyy"
+    },
+    {
+        "countryCode": "DZ",
+        "country": "Algeria",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "EC",
+        "country": "Ecuador",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "EG",
+        "country": "Egypt",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "ES",
+        "country": "Spain",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "ES",
+        "country": "Spain",
+        "langCode": "ca",
+        "language": "Catalan",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "EE",
+        "country": "Estonia",
+        "langCode": "et",
+        "language": "Estonian",
+        "dateFormat": "d.MM.yyyy"
+    },
+    {
+        "countryCode": "FI",
+        "country": "Finland",
+        "langCode": "fi",
+        "language": "Finnish",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "FR",
+        "country": "France",
+        "langCode": "fr",
+        "language": "French",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "GB",
+        "country": "United Kingdom",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "GR",
+        "country": "Greece",
+        "langCode": "el",
+        "language": "Greek",
+        "dateFormat": "d/M/yyyy"
+    },
+    {
+        "countryCode": "GT",
+        "country": "Guatemala",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "HK",
+        "country": "Hong Kong",
+        "langCode": "zh",
+        "language": "Chinese",
+        "dateFormat": "yyyy年M月d日"
+    },
+    {
+        "countryCode": "HN",
+        "country": "Honduras",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "MM-dd-yyyy"
+    },
+    {
+        "countryCode": "HR",
+        "country": "Croatia",
+        "langCode": "hr",
+        "language": "Croatian",
+        "dateFormat": "dd.MM.yyyy."
+    },
+    {
+        "countryCode": "HU",
+        "country": "Hungary",
+        "langCode": "hu",
+        "language": "Hungarian",
+        "dateFormat": "yyyy.MM.dd."
+    },
+    {
+        "countryCode": "ID",
+        "country": "Indonesia",
+        "langCode": "in",
+        "language": "Indonesian",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "IN",
+        "country": "India",
+        "langCode": "hi",
+        "language": "Hindi",
+        "dateFormat": "३/६/१२"
+    },
+    {
+        "countryCode": "IN",
+        "country": "India",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "d/M/yyyy"
+    },
+    {
+        "countryCode": "IE",
+        "country": "Ireland",
+        "langCode": "ga",
+        "language": "Irish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "IE",
+        "country": "Ireland",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "IQ",
+        "country": "Iraq",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "IS",
+        "country": "Iceland",
+        "langCode": "is",
+        "language": "Icelandic",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "IL",
+        "country": "Israel",
+        "langCode": "iw",
+        "language": "Hebrew",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "IT",
+        "country": "Italy",
+        "langCode": "it",
+        "language": "Italian",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "JO",
+        "country": "Jordan",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "JP",
+        "country": "Japan",
+        "langCode": "ja",
+        "language": "Japanese",
+        "dateFormat": "yyyy/MM/dd"
+    },
+    {
+        "countryCode": "JP",
+        "country": "Japan",
+        "langCode": "ja",
+        "language": "Japanese",
+        "dateFormat": "H24.MM.dd"
+    },
+    {
+        "countryCode": "KR",
+        "country": "South Korea",
+        "langCode": "ko",
+        "language": "Korean",
+        "dateFormat": "yyyy. M. d"
+    },
+    {
+        "countryCode": "KW",
+        "country": "Kuwait",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "LB",
+        "country": "Lebanon",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "LY",
+        "country": "Libya",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy",
+        "distance": "miles"
+    },
+    {
+        "countryCode": "LT",
+        "country": "Lithuania",
+        "langCode": "lt",
+        "language": "Lithuanian",
+        "dateFormat": "yyyy.M.d"
+    },
+    {
+        "countryCode": "LU",
+        "country": "Luxembourg",
+        "langCode": "fr",
+        "language": "French",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "LU",
+        "country": "Luxembourg",
+        "langCode": "de",
+        "language": "German",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "LV",
+        "country": "Latvia",
+        "langCode": "lv",
+        "language": "Latvian",
+        "dateFormat": "yyyy.d.M"
+    },
+    {
+        "countryCode": "MA",
+        "country": "Morocco",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "MX",
+        "country": "Mexico",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "MK",
+        "country": "Macedonia",
+        "langCode": "mk",
+        "language": "Macedonian",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "MT",
+        "country": "Malta",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "MT",
+        "country": "Malta",
+        "langCode": "mt",
+        "language": "Maltese",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "ME",
+        "country": "Montenegro",
+        "langCode": "sr",
+        "language": "Serbian",
+        "dateFormat": "d.M.yyyy."
+    },
+    {
+        "countryCode": "MY",
+        "country": "Malaysia",
+        "langCode": "ms",
+        "language": "Malay",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "NI",
+        "country": "Nicaragua",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "MM-dd-yyyy"
+    },
+    {
+        "countryCode": "NL",
+        "country": "Netherlands",
+        "langCode": "nl",
+        "language": "Dutch",
+        "dateFormat": "d-M-yyyy"
+    },
+    {
+        "countryCode": "NO",
+        "country": "Norway",
+        "langCode": "no",
+        "language": "Norwegian",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "NO",
+        "country": "Norway",
+        "langCode": "no",
+        "language": "Norwegian",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "NZ",
+        "country": "New Zealand",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "d/MM/yyyy"
+    },
+    {
+        "countryCode": "OM",
+        "country": "Oman",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "PA",
+        "country": "Panama",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "MM/dd/yyyy"
+    },
+    {
+        "countryCode": "PE",
+        "country": "Peru",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "PH",
+        "country": "Philippines",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "M/d/yyyy"
+    },
+    {
+        "countryCode": "PL",
+        "country": "Poland",
+        "langCode": "pl",
+        "language": "Polish",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "PR",
+        "country": "Puerto Rico",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "MM-dd-yyyy"
+    },
+    {
+        "countryCode": "PT",
+        "country": "Portugal",
+        "langCode": "pt",
+        "language": "Portuguese",
+        "dateFormat": "dd-MM-yyyy"
+    },
+    {
+        "countryCode": "PY",
+        "country": "Paraguay",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "QA",
+        "country": "Qatar",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "RO",
+        "country": "Romania",
+        "langCode": "ro",
+        "language": "Romanian",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "RU",
+        "country": "Russia",
+        "langCode": "ru",
+        "language": "Russian",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "SA",
+        "country": "Saudi Arabia",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "CS",
+        "country": "Serbia and Montenegro",
+        "langCode": "sr",
+        "language": "Serbian",
+        "dateFormat": "d.M.yyyy."
+    },
+    {
+        "countryCode": "SD",
+        "country": "Sudan",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "SG",
+        "country": "Singapore",
+        "langCode": "zh",
+        "language": "Chinese",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "SG",
+        "country": "Singapore",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "M/d/yyyy"
+    },
+    {
+        "countryCode": "SV",
+        "country": "El Salvador",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "MM-dd-yyyy"
+    },
+    {
+        "countryCode": "RS",
+        "country": "Serbia",
+        "langCode": "sr",
+        "language": "Serbian",
+        "dateFormat": "d.M.yyyy."
+    },
+    {
+        "countryCode": "SK",
+        "country": "Slovakia",
+        "langCode": "sk",
+        "language": "Slovak",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "SI",
+        "country": "Slovenia",
+        "langCode": "sl",
+        "language": "Slovenian",
+        "dateFormat": "d.M.yyyy"
+    },
+    {
+        "countryCode": "SE",
+        "country": "Sweden",
+        "langCode": "sv",
+        "language": "Swedish",
+        "dateFormat": "yyyy-MM-dd"
+    },
+    {
+        "countryCode": "SY",
+        "country": "Syria",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "TH",
+        "country": "Thailand",
+        "langCode": "th",
+        "language": "Thai",
+        "dateFormat": "d/M/2555"
+    },
+    {
+        "countryCode": "TH",
+        "country": "Thailand",
+        "langCode": "th",
+        "language": "Thai",
+        "dateFormat": "๓/๖/๒๕๕๕"
+    },
+    {
+        "countryCode": "TN",
+        "country": "Tunisia",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "TR",
+        "country": "Turkey",
+        "langCode": "tr",
+        "language": "Turkish",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "TW",
+        "country": "Taiwan",
+        "langCode": "zh",
+        "language": "Chinese",
+        "dateFormat": "yyyy/M/d"
+    },
+    {
+        "countryCode": "UA",
+        "country": "Ukraine",
+        "langCode": "uk",
+        "language": "Ukrainian",
+        "dateFormat": "dd.MM.yyyy"
+    },
+    {
+        "countryCode": "UY",
+        "country": "Uruguay",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "US",
+        "country": "United States",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "M/d/yyyy",
+        "distance": "miles"
+    },
+    {
+        "countryCode": "US",
+        "country": "United States",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "M/d/yyyy",
+        "distance": "miles"
+    },
+    {
+        "countryCode": "VE",
+        "country": "Venezuela",
+        "langCode": "es",
+        "language": "Spanish",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "VN",
+        "country": "Vietnam",
+        "langCode": "vi",
+        "language": "Vietnamese",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "YE",
+        "country": "Yemen",
+        "langCode": "ar",
+        "language": "Arabic",
+        "dateFormat": "dd/MM/yyyy"
+    },
+    {
+        "countryCode": "ZA",
+        "country": "South Africa",
+        "langCode": "en",
+        "language": "English",
+        "dateFormat": "yyyy/MM/dd"
+    }
+]
