@@ -42,7 +42,7 @@ countriesAll.forEach(country => {
 
     // TimeFormat
     const isTwelve = files.twelveHours.includes(id);
-    result.timeFormat = isTwelve ? "12-hour" : "24-hour";
+    result.timeFormat = isTwelve ? "h:mma" : "HH:mm";
 
     // NumberFormat
     const isDecimal = files.decimalPoints.includes(id);
