@@ -1,1 +1,2324 @@
-[{"country":"New Zealand","countryCode":"NZ","currency":"NZD","langCode":"en","language":"English","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Australia","countryCode":"AU","currency":"AUD","langCode":"en","language":"English","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Austria","countryCode":"AT","currency":"EUR","langCode":"de","language":"German","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Belgium","countryCode":"BE","currency":"EUR","langCode":"fr","language":"French","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Finland","countryCode":"FI","currency":"EUR","langCode":"fi","language":"Finnish","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"France","countryCode":"FR","currency":"EUR","langCode":"fr","language":"French","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Germany","countryCode":"DE","currency":"EUR","langCode":"de","language":"German","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Greece","countryCode":"GR","currency":"EUR","langCode":"el","language":"Greek","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Ireland","countryCode":"IE","currency":"EUR","langCode":"ga","language":"Irish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Italy","countryCode":"IT","currency":"EUR","langCode":"it","language":"Italian","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Luxembourg","countryCode":"LU","currency":"EUR","langCode":"fr","language":"French","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Netherlands","countryCode":"NL","currency":"EUR","langCode":"nl","language":"Dutch","dateFormat":"DD-MM-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Portugal","countryCode":"PT","currency":"EUR","langCode":"pt","language":"Portuguese","dateFormat":"DD-MM-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Slovenia","countryCode":"SI","currency":"EUR","langCode":"sl","language":"Slovenian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Spain","countryCode":"ES","currency":"EUR","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"United Kingdom","countryCode":"GB","currency":"GBP","langCode":"en","language":"English","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Puerto Rico","countryCode":"PR","currency":"USD","langCode":"es","language":"Spanish","dateFormat":"MM-DD-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"United States","countryCode":"US","currency":"USD,USN,USS","langCode":"en","language":"English","dateFormat":"MM/DD/YYYY","distance":"miles","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Hong Kong","countryCode":"HK","currency":"HKD","langCode":"zh","language":"Chinese","dateFormat":"yyyy年M月d日","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Canada","countryCode":"CA","currency":"CAD","langCode":"fr","language":"French","dateFormat":"YYYY-MM-DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Japan","countryCode":"JP","currency":"JPY","langCode":"ja","language":"Japanese","dateFormat":"YYYY/MM/DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Albania","countryCode":"AL","currency":"ALL","langCode":"sq","language":"Albanian","dateFormat":"YYYY-MM-DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Algeria","countryCode":"DZ","currency":"DZD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Argentina","countryCode":"AR","currency":"ARS","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Bahrain","countryCode":"BH","currency":"BHD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Belarus","countryCode":"BY","currency":"BYN","langCode":"be","language":"Belarusian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"India","countryCode":"IN","currency":"INR","langCode":"hi","language":"Hindi","dateFormat":"३/६/१२","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Bolivia","countryCode":"BO","currency":"BOB,BOV","langCode":"es","language":"Spanish","dateFormat":"DD-MM-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Norway","countryCode":"NO","currency":"NOK","langCode":"no","language":"Norwegian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Brazil","countryCode":"BR","currency":"BRL","langCode":"pt","language":"Portuguese","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Bulgaria","countryCode":"BG","currency":"BGN","langCode":"bg","language":"Bulgarian","dateFormat":"YYYY-MM-DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Chile","countryCode":"CL","currency":"CLF,CLP","langCode":"es","language":"Spanish","dateFormat":"DD-MM-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"China","countryCode":"CN","currency":"CNY","langCode":"zh","language":"Chinese","dateFormat":"YYYY-MM-DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Colombia","countryCode":"CO","currency":"COP","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Costa Rica","countryCode":"CR","currency":"CRC","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Croatia","countryCode":"HR","currency":"HRK","langCode":"hr","language":"Croatian","dateFormat":"DD.MM.YYYY.","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Cyprus","countryCode":"CY","currency":"EUR","langCode":"el","language":"Greek","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Czech Republic","countryCode":"CZ","currency":"CZK","langCode":"cs","language":"Czech","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Denmark","countryCode":"DK","currency":"DKK","langCode":"da","language":"Danish","dateFormat":"DD-MM-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Dominican Republic","countryCode":"DO","currency":"DOP","langCode":"es","language":"Spanish","dateFormat":"MM/DD/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Indonesia","countryCode":"ID","currency":"IDR","langCode":"in","language":"Indonesian","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Ecuador","countryCode":"EC","currency":"USD","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Egypt","countryCode":"EG","currency":"EGP","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"El Salvador","countryCode":"SV","currency":"SVC,USD","langCode":"es","language":"Spanish","dateFormat":"MM-DD-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Estonia","countryCode":"EE","currency":"EUR","langCode":"et","language":"Estonian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Guatemala","countryCode":"GT","currency":"GTQ","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Honduras","countryCode":"HN","currency":"HNL","langCode":"es","language":"Spanish","dateFormat":"MM-DD-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Hungary","countryCode":"HU","currency":"HUF","langCode":"hu","language":"Hungarian","dateFormat":"YYYY.MM.DD.","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Iceland","countryCode":"IS","currency":"ISK","langCode":"is","language":"Icelandic","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Iraq","countryCode":"IQ","currency":"IQD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Israel","countryCode":"IL","currency":"ILS","langCode":"iw","language":"Hebrew","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Jordan","countryCode":"JO","currency":"JOD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"South Korea","countryCode":"KR","currency":"KRW","langCode":"ko","language":"Korean","dateFormat":"YYYY.MM.DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Kuwait","countryCode":"KW","currency":"KWD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Latvia","countryCode":"LV","currency":"EUR","langCode":"lv","language":"Latvian","dateFormat":"YYYY.DD.MM","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Lebanon","countryCode":"LB","currency":"LBP","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Libya","countryCode":"LY","currency":"LYD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","distance":"miles","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Switzerland","countryCode":"CH","currency":"CHE,CHF,CHW","langCode":"de","language":"German","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Lithuania","countryCode":"LT","currency":"EUR","langCode":"lt","language":"Lithuanian","dateFormat":"YYYY.MM.DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Macedonia","countryCode":"MK","currency":"MKD","langCode":"mk","language":"Macedonian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Malaysia","countryCode":"MY","currency":"MYR","langCode":"ms","language":"Malay","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Malta","countryCode":"MT","currency":"EUR","langCode":"en","language":"English","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Mexico","countryCode":"MX","currency":"MXN","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Morocco","countryCode":"MA","currency":"MAD","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Nicaragua","countryCode":"NI","currency":"NIO","langCode":"es","language":"Spanish","dateFormat":"MM-DD-YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Oman","countryCode":"OM","currency":"OMR","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Panama","countryCode":"PA","currency":"PAB,USD","langCode":"es","language":"Spanish","dateFormat":"MM/DD/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Paraguay","countryCode":"PY","currency":"PYG","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Peru","countryCode":"PE","currency":"PEN","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Philippines","countryCode":"PH","currency":"PHP","langCode":"en","language":"English","dateFormat":"MM/DD/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Poland","countryCode":"PL","currency":"PLN","langCode":"pl","language":"Polish","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Qatar","countryCode":"QA","currency":"QAR","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Romania","countryCode":"RO","currency":"RON","langCode":"ro","language":"Romanian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Russia","countryCode":"RU","currency":"RUB","langCode":"ru","language":"Russian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Saudi Arabia","countryCode":"SA","currency":"SAR","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Singapore","countryCode":"SG","currency":"SGD","langCode":"zh","language":"Chinese","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Slovakia","countryCode":"SK","currency":"EUR","langCode":"sk","language":"Slovak","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"South Africa","countryCode":"ZA","currency":"ZAR","langCode":"en","language":"English","dateFormat":"YYYY/MM/DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Sudan","countryCode":"SD","currency":"SDG","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Sweden","countryCode":"SE","currency":"SEK","langCode":"sv","language":"Swedish","dateFormat":"YYYY-MM-DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Syria","countryCode":"SY","currency":"SYP","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Taiwan","countryCode":"TW","currency":"TWD","langCode":"zh","language":"Chinese","dateFormat":"yyyy/M/d","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Thailand","countryCode":"TH","currency":"THB","langCode":"th","language":"Thai","dateFormat":"d/M/2555","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Tunisia","countryCode":"TN","currency":"TND","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Turkey","countryCode":"TR","currency":"TRY","langCode":"tr","language":"Turkish","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Ukraine","countryCode":"UA","currency":"UAH","langCode":"uk","language":"Ukrainian","dateFormat":"DD.MM.YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"United Arab Emirates","countryCode":"AE","currency":"AED","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Uruguay","countryCode":"UY","currency":"UYI,UYU","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Venezuela","countryCode":"VE","currency":"VES","langCode":"es","language":"Spanish","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Vietnam","countryCode":"VN","currency":"VND","langCode":"vi","language":"Vietnamese","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Yemen","countryCode":"YE","currency":"YER","langCode":"ar","language":"Arabic","dateFormat":"DD/MM/YYYY","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Bosnia and Herzegovina","countryCode":"BA","currency":"BAM","langCode":"sr","language":"Serbian","dateFormat":"YYYY-MM-DD","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Montenegro","countryCode":"ME","currency":"EUR","langCode":"sr","language":"Serbian","dateFormat":"DD.MM.YYYY.","timeFormat":"24-hour","numberFormat":"dot"},{"country":"Serbia","countryCode":"RS","currency":"RSD","langCode":"sr","language":"Serbian","dateFormat":"DD.MM.YYYY.","timeFormat":"24-hour","numberFormat":"dot"}]
+[{
+    "countryCode": "AF",
+    "country": "Afghanistan",
+    "currency": "AFN",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AX",
+    "country": "Åland Islands",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AL",
+    "country": "Albania",
+    "currency": "ALL",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sq",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DZ",
+    "country": "Algeria",
+    "currency": "DZD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AD",
+    "country": "Andorra",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AO",
+    "country": "Angola",
+    "currency": "AOA",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AI",
+    "country": "Anguilla",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AQ",
+    "country": "Antarctica",
+    "currency": "",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AG",
+    "country": "Antigua & Barbuda",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AR",
+    "country": "Argentina",
+    "currency": "ARS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AM",
+    "country": "Armenia",
+    "currency": "AMD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AW",
+    "country": "Aruba",
+    "currency": "AWG",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AC",
+    "country": "Ascension Island",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AU",
+    "country": "Australia",
+    "currency": "AUD",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AT",
+    "country": "Austria",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "de",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "currency": "AZN",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BS",
+    "country": "Bahamas",
+    "currency": "BSD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BH",
+    "country": "Bahrain",
+    "currency": "BHD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "currency": "BDT",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BB",
+    "country": "Barbados",
+    "currency": "BBD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BY",
+    "country": "Belarus",
+    "currency": "BYN",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "be",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BE",
+    "country": "Belgium",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "fr",
+    "businessIdName": "KBO nummer"
+}, {
+    "countryCode": "BZ",
+    "country": "Belize",
+    "currency": "BZD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BJ",
+    "country": "Benin",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BM",
+    "country": "Bermuda",
+    "currency": "BMD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BT",
+    "country": "Bhutan",
+    "currency": "BTN,INR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BO",
+    "country": "Bolivia",
+    "currency": "BOB,BOV",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BA",
+    "country": "Bosnia & Herzegovina",
+    "currency": "BAM",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BW",
+    "country": "Botswana",
+    "currency": "BWP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BR",
+    "country": "Brazil",
+    "currency": "BRL",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "pt",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IO",
+    "country": "British Indian Ocean Territory",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VG",
+    "country": "British Virgin Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BN",
+    "country": "Brunei",
+    "currency": "BND",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "eu": true,
+    "currency": "BGN",
+    "dateFormat": "yyyy-M-d",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "bg",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BF",
+    "country": "Burkina Faso",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BI",
+    "country": "Burundi",
+    "currency": "BIF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KH",
+    "country": "Cambodia",
+    "currency": "KHR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CM",
+    "country": "Cameroon",
+    "currency": "XAF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CA",
+    "country": "Canada",
+    "currency": "CAD",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "fr",
+    "businessIdName": "Business number"
+}, {
+    "countryCode": "IC",
+    "country": "Canary Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "currency": "CVE",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BQ",
+    "country": "Caribbean Netherlands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KY",
+    "country": "Cayman Islands",
+    "currency": "KYD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "currency": "XAF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "EA",
+    "country": "Ceuta & Melilla",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TD",
+    "country": "Chad",
+    "currency": "XAF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CL",
+    "country": "Chile",
+    "currency": "CLF,CLP",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CN",
+    "country": "China",
+    "currency": "CNY",
+    "dateFormat": "yyyy-M-d",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "zh",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CX",
+    "country": "Christmas Island",
+    "currency": "AUD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CC",
+    "country": "Cocos (Keeling) Islands",
+    "currency": "AUD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CO",
+    "country": "Colombia",
+    "currency": "COP",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KM",
+    "country": "Comoros",
+    "currency": "KMF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CG",
+    "country": "Congo - Brazzaville",
+    "currency": "XAF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "currency": "CDF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "currency": "NZD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CR",
+    "country": "Costa Rica",
+    "currency": "CRC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CI",
+    "country": "Côte d’Ivoire",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "HR",
+    "country": "Croatia",
+    "eu": true,
+    "currency": "HRK",
+    "dateFormat": "dd.MM.yyyy.",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "hr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CU",
+    "country": "Cuba",
+    "currency": "CUC,CUP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CW",
+    "country": "Curaçao",
+    "currency": "ANG",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CY",
+    "country": "Cyprus",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "el",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "eu": true,
+    "currency": "CZK",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "cs",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DK",
+    "country": "Denmark",
+    "eu": true,
+    "currency": "DKK",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "da",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DG",
+    "country": "Diego Garcia",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "currency": "DJF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DM",
+    "country": "Dominica",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "currency": "DOP",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "currency": "USD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "EG",
+    "country": "Egypt",
+    "currency": "EGP",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SV",
+    "country": "El Salvador",
+    "currency": "SVC,USD",
+    "dateFormat": "MM-dd-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "currency": "XAF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "currency": "ERN",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "EE",
+    "country": "Estonia",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "et",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "currency": "SZL",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ET",
+    "country": "Ethiopia",
+    "currency": "ETB",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "FK",
+    "country": "Falkland Islands",
+    "currency": "FKP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "FO",
+    "country": "Faroe Islands",
+    "currency": "DKK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "FJ",
+    "country": "Fiji",
+    "currency": "FJD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "FI",
+    "country": "Finland",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "fi",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "FR",
+    "country": "France",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "fr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GF",
+    "country": "French Guiana",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PF",
+    "country": "French Polynesia",
+    "currency": "XPF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TF",
+    "country": "French Southern Territories",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GA",
+    "country": "Gabon",
+    "currency": "XAF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GM",
+    "country": "Gambia",
+    "currency": "GMD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GE",
+    "country": "Georgia",
+    "currency": "GEL",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "DE",
+    "country": "Germany",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "de",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GH",
+    "country": "Ghana",
+    "currency": "GHS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GI",
+    "country": "Gibraltar",
+    "currency": "GIP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GR",
+    "country": "Greece",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d/M/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "el",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GL",
+    "country": "Greenland",
+    "currency": "DKK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GD",
+    "country": "Grenada",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GP",
+    "country": "Guadeloupe",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GU",
+    "country": "Guam",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GT",
+    "country": "Guatemala",
+    "currency": "GTQ",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GG",
+    "country": "Guernsey",
+    "currency": "GBP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GN",
+    "country": "Guinea",
+    "currency": "GNF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GY",
+    "country": "Guyana",
+    "currency": "GYD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "HT",
+    "country": "Haiti",
+    "currency": "HTG,USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "HN",
+    "country": "Honduras",
+    "currency": "HNL",
+    "dateFormat": "MM-dd-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "currency": "HKD",
+    "dateFormat": "yyyy年M月d日",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "zh",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "HU",
+    "country": "Hungary",
+    "eu": true,
+    "currency": "HUF",
+    "dateFormat": "yyyy.MM.dd.",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "hu",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IS",
+    "country": "Iceland",
+    "currency": "ISK",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "is",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IN",
+    "country": "India",
+    "currency": "INR",
+    "dateFormat": "३/६/१२",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "hi",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "in",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IR",
+    "country": "Iran",
+    "currency": "IRR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IQ",
+    "country": "Iraq",
+    "currency": "IQD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IE",
+    "country": "Ireland",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "ga",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IM",
+    "country": "Isle of Man",
+    "currency": "GBP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IL",
+    "country": "Israel",
+    "currency": "ILS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "iw",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "IT",
+    "country": "Italy",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "it",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "JM",
+    "country": "Jamaica",
+    "currency": "JMD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "JP",
+    "country": "Japan",
+    "currency": "JPY",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "ja",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "JE",
+    "country": "Jersey",
+    "currency": "GBP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "JO",
+    "country": "Jordan",
+    "currency": "JOD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KE",
+    "country": "Kenya",
+    "currency": "KES",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KI",
+    "country": "Kiribati",
+    "currency": "AUD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "XK",
+    "country": "Kosovo",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KW",
+    "country": "Kuwait",
+    "currency": "KWD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KG",
+    "country": "Kyrgyzstan",
+    "currency": "KGS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LA",
+    "country": "Laos",
+    "currency": "LAK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LV",
+    "country": "Latvia",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "yyyy.d.M",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "lv",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LB",
+    "country": "Lebanon",
+    "currency": "LBP",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "currency": "LSL,ZAR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LR",
+    "country": "Liberia",
+    "currency": "LRD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LY",
+    "country": "Libya",
+    "currency": "LYD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LI",
+    "country": "Liechtenstein",
+    "currency": "CHF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "yyyy.M.d",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "lt",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LU",
+    "country": "Luxembourg",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "fr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MO",
+    "country": "Macao SAR China",
+    "currency": "MOP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "currency": "MGA",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MW",
+    "country": "Malawi",
+    "currency": "MWK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "currency": "MYR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "ms",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MV",
+    "country": "Maldives",
+    "currency": "MVR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ML",
+    "country": "Mali",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MT",
+    "country": "Malta",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MH",
+    "country": "Marshall Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MQ",
+    "country": "Martinique",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "currency": "MRU",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "currency": "MUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "YT",
+    "country": "Mayotte",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MX",
+    "country": "Mexico",
+    "currency": "MXN",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "FM",
+    "country": "Micronesia",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MD",
+    "country": "Moldova",
+    "currency": "MDL",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MC",
+    "country": "Monaco",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MN",
+    "country": "Mongolia",
+    "currency": "MNT",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ME",
+    "country": "Montenegro",
+    "currency": "EUR",
+    "dateFormat": "d.M.yyyy.",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MS",
+    "country": "Montserrat",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MA",
+    "country": "Morocco",
+    "currency": "MAD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MZ",
+    "country": "Mozambique",
+    "currency": "MZN",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MM",
+    "country": "Myanmar (Burma)",
+    "currency": "MMK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NA",
+    "country": "Namibia",
+    "currency": "NAD,ZAR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NR",
+    "country": "Nauru",
+    "currency": "AUD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NP",
+    "country": "Nepal",
+    "currency": "NPR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d-M-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "nl",
+    "businessIdName": "KvK nummer"
+}, {
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "currency": "XPF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NZ",
+    "country": "New Zealand",
+    "currency": "NZD",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NI",
+    "country": "Nicaragua",
+    "currency": "NIO",
+    "dateFormat": "MM-dd-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NE",
+    "country": "Niger",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NU",
+    "country": "Niue",
+    "currency": "NZD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NF",
+    "country": "Norfolk Island",
+    "currency": "AUD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KP",
+    "country": "North Korea",
+    "currency": "KPW",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MK",
+    "country": "North Macedonia",
+    "currency": "MKD",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "mk",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MP",
+    "country": "Northern Mariana Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "NO",
+    "country": "Norway",
+    "currency": "NOK",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "no",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "OM",
+    "country": "Oman",
+    "currency": "OMR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PW",
+    "country": "Palau",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PS",
+    "country": "Palestinian Territories",
+    "currency": "ILS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PA",
+    "country": "Panama",
+    "currency": "PAB,USD",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "currency": "PGK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PY",
+    "country": "Paraguay",
+    "currency": "PYG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PE",
+    "country": "Peru",
+    "currency": "PEN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PH",
+    "country": "Philippines",
+    "currency": "PHP",
+    "dateFormat": "M/d/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PN",
+    "country": "Pitcairn Islands",
+    "currency": "NZD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PL",
+    "country": "Poland",
+    "eu": true,
+    "currency": "PLN",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "pl",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PT",
+    "country": "Portugal",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "pt",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "XA",
+    "country": "Pseudo-Accents",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "XB",
+    "country": "Pseudo-Bidi",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PR",
+    "country": "Puerto Rico",
+    "currency": "USD",
+    "dateFormat": "MM-dd-yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "QA",
+    "country": "Qatar",
+    "currency": "QAR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "RE",
+    "country": "Réunion",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "RO",
+    "country": "Romania",
+    "eu": true,
+    "currency": "RON",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ro",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "RU",
+    "country": "Russia",
+    "currency": "RUB",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ru",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "RW",
+    "country": "Rwanda",
+    "currency": "RWF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "WS",
+    "country": "Samoa",
+    "currency": "WST",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SM",
+    "country": "San Marino",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ST",
+    "country": "São Tomé & Príncipe",
+    "currency": "STN",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SN",
+    "country": "Senegal",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "RS",
+    "country": "Serbia",
+    "currency": "RSD",
+    "dateFormat": "d.M.yyyy.",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "currency": "SCR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "currency": "SLL",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SG",
+    "country": "Singapore",
+    "currency": "SGD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "zh",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SX",
+    "country": "Sint Maarten",
+    "currency": "ANG",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sk",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SI",
+    "country": "Slovenia",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d.M.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sl",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "currency": "SBD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SO",
+    "country": "Somalia",
+    "currency": "SOS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GS",
+    "country": "South Georgia & South Sandwich Islands",
+    "currency": "GBP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KR",
+    "country": "South Korea",
+    "currency": "KRW",
+    "dateFormat": "yyyy. M. d",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "ko",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "currency": "SSP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ES",
+    "country": "Spain",
+    "eu": true,
+    "currency": "EUR",
+    "dateFormat": "d/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LK",
+    "country": "Sri Lanka",
+    "currency": "LKR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "BL",
+    "country": "St Barthélemy",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SH",
+    "country": "St Helena",
+    "currency": "SHP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "KN",
+    "country": "St Kitts & Nevis",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "LC",
+    "country": "St Lucia",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "MF",
+    "country": "St Martin",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "PM",
+    "country": "St Pierre & Miquelon",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VC",
+    "country": "St Vincent & Grenadines",
+    "currency": "XCD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SD",
+    "country": "Sudan",
+    "currency": "SDG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SR",
+    "country": "Suriname",
+    "currency": "SRD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SJ",
+    "country": "Svalbard & Jan Mayen",
+    "currency": "NOK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SE",
+    "country": "Sweden",
+    "eu": true,
+    "currency": "SEK",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "sv",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "currency": "CHE,CHF,CHW",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "de",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "SY",
+    "country": "Syria",
+    "currency": "SYP",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "currency": "TWD",
+    "dateFormat": "yyyy/M/d",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "zh",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TJ",
+    "country": "Tajikistan",
+    "currency": "TJS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TH",
+    "country": "Thailand",
+    "currency": "THB",
+    "dateFormat": "d/M/2555",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "th",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TL",
+    "country": "Timor-Leste",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TG",
+    "country": "Togo",
+    "currency": "XOF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TK",
+    "country": "Tokelau",
+    "currency": "NZD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TO",
+    "country": "Tonga",
+    "currency": "TOP",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TT",
+    "country": "Trinidad & Tobago",
+    "currency": "TTD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TA",
+    "country": "Tristan da Cunha",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "currency": "TND",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TR",
+    "country": "Turkey",
+    "currency": "TRY",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "tr",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TM",
+    "country": "Turkmenistan",
+    "currency": "TMT",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TC",
+    "country": "Turks & Caicos Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "TV",
+    "country": "Tuvalu",
+    "currency": "AUD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "UG",
+    "country": "Uganda",
+    "currency": "UGX",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "currency": "UAH",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "uk",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "currency": "AED",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "eu": true,
+    "currency": "GBP",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Company number"
+}, {
+    "countryCode": "US",
+    "country": "United States",
+    "currency": "USD,USN,USS",
+    "dateFormat": "M/d/yyyy",
+    "timeFormat": "12-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "EIN"
+}, {
+    "countryCode": "UY",
+    "country": "Uruguay",
+    "currency": "UYI,UYU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "UM",
+    "country": "US Outlying Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VI",
+    "country": "US Virgin Islands",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "UZ",
+    "country": "Uzbekistan",
+    "currency": "UZS",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "currency": "VUV",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VA",
+    "country": "Vatican City",
+    "currency": "EUR",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "currency": "VES",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "es",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "currency": "VND",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "vi",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "WF",
+    "country": "Wallis & Futuna",
+    "currency": "XPF",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "EH",
+    "country": "Western Sahara",
+    "currency": "MAD,DZD,MRU",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "YE",
+    "country": "Yemen",
+    "currency": "YER",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "ar",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ZM",
+    "country": "Zambia",
+    "currency": "ZMK",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "dot",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}, {
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+    "dateFormat": "MM/DD/YYYY",
+    "timeFormat": "24-hour",
+    "numberFormat": "comma",
+    "langCode": "en",
+    "businessIdName": "Business ID"
+}]

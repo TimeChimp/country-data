@@ -15,6 +15,29 @@ const twelveHours = [
 
 const eu = ["AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"];
 
+const businessIdNames = [
+  {
+    id: 'NL',
+    name: 'KvK nummer'
+  },
+  {
+    id: 'GB',
+    name: 'Company number'
+  },
+  {
+    id: 'US',
+    name: 'EIN'
+  },
+  {
+    id: 'BE',
+    name: 'KBO nummer'
+  },
+  {
+    id: 'CA',
+    name: 'Business number'
+  },
+]
+
 const decimalPoint = [
   "AU",
   "CA",
@@ -75,5 +98,6 @@ const decimalPoint = [
 module.exports = {
   twelveHours,
   decimalPoint,
-  eu
+  eu,
+  businessIdNames
 };
