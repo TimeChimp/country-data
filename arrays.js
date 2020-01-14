@@ -13,6 +13,8 @@ const twelveHours = [
   "MY"
 ];
 
+const eu = ["AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"];
+
 const decimalPoint = [
   "AU",
   "CA",
@@ -72,5 +74,6 @@ const decimalPoint = [
 
 module.exports = {
   twelveHours,
-  decimalPoint
+  decimalPoint,
+  eu
 };
