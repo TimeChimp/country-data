@@ -40,6 +40,18 @@ countriesAll.forEach(country => {
     );
     result.dateFormat = dateObject ? dateObject.dateFormat : 'MM/DD/YYYY';
 
+    // Language
+    const langObject = countriesLangDate.find(
+        x => x.countryCode === id
+    );
+    result.langCode = langObject ? langObject.langCode : 'en';
+
+    // DistanceFormat
+    const distanceObject = countriesLangDate.find(
+        x => x.countryCode === id
+    );
+    result.distanceFormat = distanceObject && distanceObject.distance === 'miles' ? 'mi' : 'km';
+
     // TimeFormat
     const isTwelve = files.twelveHours.includes(id);
     result.timeFormat = isTwelve ? "h:mma" : "HH:mm";
@@ -47,12 +59,6 @@ countriesAll.forEach(country => {
     // NumberFormat
     const isDecimal = files.decimalPoints.includes(id);
     result.numberFormat = isDecimal ? "comma" : "dot";
-
-    // Language
-    const langObject = countriesLangDate.find(
-        x => x.countryCode === id
-    );
-    result.langCode = langObject ? langObject.langCode : 'en';
 
     // BusinessIdName
     const idObject = files.businessIdNames.find(
